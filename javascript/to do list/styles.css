@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(86, 73, 73);
+
+}
+
+
+.title{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.addButton{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    transition: 0.3s;
+    cursor: pointer;
+   
+}
+.add-button:hover{
+background-color: gray;
+}
+.input{
+    margin-bottom: 10px;
+    display: none;
+}
+.enter-button{
+    display: none;
+}
+
+
+
+/* 
+
+
+
+.task-container {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    max-width: 300px;
+    font-family: Arial, sans-serif;
+}
+.task {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
